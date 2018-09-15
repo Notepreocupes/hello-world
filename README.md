@@ -1,6 +1,5 @@
 # hello-world
+
 A description of my project
 
-
-
-This is my first project on Github
+This is my first project on Githubs
